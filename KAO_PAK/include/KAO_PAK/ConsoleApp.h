@@ -1,0 +1,16 @@
+#ifndef H_KAOPAK_MAIN
+#define H_KAOPAK_MAIN
+
+
+////////////////////////////////////////////////////////////////
+// LIBRARIES
+////////////////////////////////////////////////////////////////
+
+#include <fstream>
+#include <iostream>
+#include <string>
+#include <cctype>
+
+#include <direct.h>
+
+#endif
